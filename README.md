@@ -1,6 +1,6 @@
 算法/深度学习/NLP面试笔记
 ===
-**GitHub** 地址：https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
+* GitHub** 地址：https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
 
 RoadMap
 ---
@@ -51,7 +51,7 @@ RoadMap
 -->
 
 <!--
-## RoadMap
+!# RoadMap
 - [数学](./数学)
   - [微积分的本质](./数学/微积分的本质.md)
   - [深度学习的核心](./数学/深度学习的核心.md)
@@ -115,4 +115,4 @@ RoadMap
 - [算法/NLP/深度学习/机器学习面试笔记](https://zhuanlan.zhihu.com/p/41515995) - 知乎
 - [算法/NLP/深度学习/机器学习面试笔记](https://www.jianshu.com/p/55b0703aa1ad) - 简书 
 - [算法/NLP/深度学习/机器学习面试笔记](https://blog.csdn.net/imhuay/article/details/81490564) - CSDN博客 
-- [GitHub 上整理的深度学习/机器学习面试笔记](https://www.v2ex.com/t/473047) - V2EX  -->
+- [GitHub 上整理的深度学习/机器学习面试笔记](https://www.v2ex.com/t/473047) - V2EX  --> 
